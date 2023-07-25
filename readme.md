@@ -1,4 +1,6 @@
 aula de git
 
 
-Feitos algumas alteracoes por aqui 
+Feitos algumas alteracoes por aqui apos se feito o o git clone sera que funcionou ?
+
+
